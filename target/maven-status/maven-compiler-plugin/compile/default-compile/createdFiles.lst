@@ -1,0 +1,9 @@
+com\registration\repository\UserInfoRepositoryImpl.class
+com\registration\utils\BasicUtils.class
+com\registration\utils\Constants.class
+com\registration\entity\UserInfo.class
+com\registration\utils\TestMain.class
+com\registration\entity\UserNumber$UserNumberBuilder.class
+com\registration\entity\UserNumber.class
+com\registration\utils\CustomLogger.class
+com\registration\entity\UserInfo$UserInfoBuilder.class
